@@ -1,6 +1,6 @@
 # CS-320
 
-How can I ensure that my code, program, or software is functional and secure?
+How can I ensure that my code, program, or software is functional and secure?\n
 I ensured that my code is functional and secure by running JUnit tests and verifying the coverage for the tests was at least 80 percent. I also tried to write code that was as clean
 and readable; however, I should have left comments throughout my code to make it easier for any reader to understand the functionality of the code.
 
